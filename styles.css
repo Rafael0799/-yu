@@ -34,3 +34,20 @@ section {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
+.project {
+    margin-bottom: 1.5rem;
+}
+
+.project h3 {
+    margin-top: 0;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
